@@ -1,0 +1,59 @@
+
+
+BRAHMADEVUNI GAGAN KUMAR REDDY 
+LinkedIn:  https://www.linkedin.com/in/gagan-kumar-reddy/                                          Email: gagankumarreddy.b@gmail.com 
+GitHub:     https://github.com/BGaganKumarreddy                                                                        Mobile: +91-9000062869 
+SKILLS 
+• Languages:     Java, JavaScript, C, C + + ,  PHP 
+• Frameworks:  HTML and CSS, Bootstrap, NodeJS, React, Tailwind CSS, Express 
+• Tools/Platforms:  MySQL, MongoDB, Git, GitHub, Figma 
+• Soft Skills:  Problem-solving, Team collaboration, Time management, Adaptability   
+ TRAINING 
+Lovely Professional University | Certificate       Jun’ 25 – Jul’ 25 
+•   Summer Training on Data Structures & Algorithms with C++                                                             
+        DSA Trainee | C++ Programmer 
+• Acquired strong proficiency in Data Structures and Algorithms (DSA) using C++, emphasizing performance-
+optimized and scalable problem-solving techniques 
+• Developed core data structures including arrays, strings, linked lists, stacks, queues, trees, heaps, and hash tables 
+• Analyzed and engineered efficient algorithms for searching, sorting, recursion, and dynamic programming with 
+optimized time and space complexity 
+• Solved 50+ algorithmic problems using C++, enhancing logical reasoning and competitive programming capabilities 
+• Leveraged object-oriented programming (OOP) principles including encapsulation, inheritance, and polymorphism in 
+C++ implementations 
+  PROJECTS 
+• Stock Mate – Smart Inventory Management System | GITHUB                                          Sep’ 25 – Oct’ 25                     
+• Engineered a full-stack inventory management system enabling real-time stock tracking 
+• Developed efficient CRUD APIs for product, supplier, and inventory management 
+• Architected and deployed responsive dashboards with interactive data visualizations 
+• Integrated JWT-based authentication to secure user access and API endpoints 
+• Enhanced back-end logic and improved performance through efficient database query handling 
+Tech Stack: MongoD B,  Ex pr ess.js, R eact, N ode.js, Tailwind  C SS. 
+• Agri Insight – Smart Crop Recommendation System | GITHUB                                Feb’ 25 – Mar’ 25 
+• Built a web-based smart crop recommendation platform for agricultural decision support 
+• Analyzed agricultural datasets to recommend optimal crops using environment-driven logic 
+• Architected responsive dashboards featuring interactive data visualizations 
+• Developed a responsive UI with real-time recommendations 
+Tech Stack: PH P,  My SQ L, HTML, C SS, J av aScript 
+  CERTIFICATES 
+• Master Generative AI & Generative AI Tools (ChatGPT & more) | Infosys                Aug ‘25 
+• ChatGpt-4 Prompt Engineering: ChatGPT, Generative Ai &LLM| Infosys               Aug ’25 
+• Build Generative AI Apps and Solutions with No-Code Tools | Infosys                  Aug ‘25 
+• Computational Theory: Language Principle & Finite Automata Theory | Infosys               Aug ‘25 
+• The Bits and Bytes of Computer Networking authorized by Google | Coursera               Sep ‘24                                  
+ACHIEVEMENTS 
+• Solved 200+ algorithmic problems demonstrating strong analytical and problem-solving capabilities 
+• Ranked Top 10 out of 50+ teams in a college Hackathon for delivering an innovative web-based solution under 
+tight deadlines. 
+EDUCATION 
+Lovely Professional University                                                                                                                      Punjab, India 
+Bachelor of Technology –                                                                                                                              Aug’  23 - Present 
+ Computer Science and Engineering; CGPA: 6.7                                                                   
+Vowel Junior College                                                                                                              Andhra Pradesh, Nellore 
+ Higher Secondary Education; Percentage: 88%                                                                    May’ 21 – Mar’ 23 
+Vowel Learning Institution                                                                                                    Andhra Pradesh, Nellore 
+ Secondary Education; Percentage: 93.7%                                                                                Jun’ 20 – Mar’ 21 
+ 
+ 
+• 
+• 
+• 
